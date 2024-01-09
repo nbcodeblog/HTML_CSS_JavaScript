@@ -37,3 +37,23 @@
 .heading_background_color_pink {
     background-color: pink;
 }
+
+/* Headings with CSS Font Size Property */
+.heading_font_size_30px {
+    font-size: 30px;
+}
+.heading_font_size_40px {
+    font-size: 40px;
+}
+.heading_font_size_50px {
+    font-size: 50px;
+}
+.heading_font_size_60px {
+    font-size: 60px;
+}
+.heading_font_size_70px {
+    font-size: 70px;
+}
+.heading_font_size_80px {
+    font-size: 80px;
+}
