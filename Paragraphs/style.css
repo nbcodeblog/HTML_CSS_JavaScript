@@ -1,0 +1,14 @@
+/* Paragraph with CSS Color Property */
+.paragraph_color_red {
+    color: red;
+}
+
+/* Paragraph with CSS Background Color Property Property */
+.paragraph_background_color_red {
+    background-color: red;
+}
+
+/* Paragraph with CSS Font Size Property */
+.paragraph_font_size_20px {
+    font-size: 20px;
+}
