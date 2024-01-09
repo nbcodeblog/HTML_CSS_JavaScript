@@ -68,3 +68,14 @@ body {
 .heading_font_size_80px {
     font-size: 80px;
 }
+
+/* Headings with CSS Text Align Property */
+.heading_text_align_left {
+    text-align: left;
+}
+.heading_text_align_center {
+    text-align: center;
+}
+.heading_text_align_right {
+    text-align: right;
+}
