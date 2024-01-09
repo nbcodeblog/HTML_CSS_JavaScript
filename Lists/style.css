@@ -1,0 +1,13 @@
+/* Unordered List with CSS List Style Type Property */
+.list_style_type_disc {
+    list-style-type: disc;
+}
+.list_style_type_square {
+    list-style-type: square;
+}
+.list_style_type_circle {
+    list-style-type: circle;
+}
+.list_style_type_none {
+    list-style-type: none;
+}
