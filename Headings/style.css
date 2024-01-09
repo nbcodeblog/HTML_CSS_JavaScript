@@ -19,6 +19,9 @@
 }
 
 /* Headings with CSS Background Color Property */
+body {
+    background-color: powderblue;
+}
 .heading_background_color_red {
     background-color: red;
 }

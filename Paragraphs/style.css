@@ -4,6 +4,9 @@
 }
 
 /* Paragraph with CSS Background Color Property Property */
+body {
+    background-color: powderblue;
+}
 .paragraph_background_color_red {
     background-color: red;
 }
