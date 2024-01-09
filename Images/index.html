@@ -29,6 +29,43 @@
     <br><br>
     <img src="/image2.jpeg" alt="Wallpaper Image" width="300" title="Image">
 
+    <!-- HTML Image as a Link -->
+    <h2>HTML Image as a Link</h2>
+    <a href="https://google.com" target="_blank"><img src="image1.jpeg" alt="nbcodeblog image" width="300" height="300" title="Link"></a>
+
+    <!-- HTML Images with Map Element -->
+    <h2>HTML Images with Map Element</h2>
+    <img src="workplace.jpeg" alt="Workplace" usemap="#workplace1">
+    <map name="workplace1">
+        <area shape="rect" coords="31,42,275,346" href="https://google.com" target="_blank" alt="Google.com" title="Link">
+        <area shape="rect" coords="286,171,338,245" href="https://microsoft.com" target="_blank" alt="Microsoft.com" title="Link">
+        <area shape="circle" coords="337,299,45" href="https://apple.com" target="_blank" alt="Apple.com" title="Link">
+    </map>
+    <br><br>
+
+    <img src="frenchfood.jpeg" alt="Frenchfood" usemap="#frenchfood1">
+    <map name="frenchfood1">
+        <area shape="poly" coords="178,114,142,121,130,143,109,154,85,191,65,207,41,256,37,285,41,309,37,319,48,342,66,353,86,355,119,337,164,296,180,273,207,255,204,195,201,158,191,141,184,117" href="https://google.com" target="_blank" alt="Google.com" title="Link">
+    </map>
+
+    <!-- HTML Images with Picture Element -->
+    <h2>HTML Images with Picture Element</h2>
+    <picture>
+        <source media="(min-width: 650px)" srcset="image1.jpeg">
+        <source media="(min-width: 465px)" srcset="workplace.jpeg">
+        <img src="frenchfood.jpeg" alt="Frenchfood">
+    </picture>
+
+    <!-- HTML Image with Iframe Element -->
+    <h2>HTML Image with Iframe Element</h2>
+    <iframe src="image1.jpeg" frameborder="0" width="300" height="300" title="Iframe"></iframe>
+
+    <!-- HTML Image with Iframe Element Target for a Link -->
+    <h2>HTML Image with Iframe Element Target for a Link</h2>
+    <iframe src="image1.jpeg" frameborder="0" name="github" width="300" height="300" title="Iframe"></iframe>
+    <br><br>
+    <a href="links.html" target="github" title="Link">Links.html</a>
+
     <script src="script.js"></script>
 </body>
 </html>
