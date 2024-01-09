@@ -1,0 +1,39 @@
+/* Headings with CSS color Property */
+.heading_color_red {
+    color: red;
+}
+.heading_color_green {
+    color: green;
+}
+.heading_color_blue {
+    color: blue;
+}
+.heading_color_yellow {
+    color: yellow;
+}
+.heading_color_brown {
+    color: brown;
+}
+.heading_color_pink {
+    color: pink;
+}
+
+/* Headings with CSS Background Color Property */
+.heading_background_color_red {
+    background-color: red;
+}
+.heading_background_color_green {
+    background-color: green;
+}
+.heading_background_color_blue {
+    background-color: blue;
+}
+.heading_background_color_yellow {
+    background-color: yellow;
+}
+.heading_background_color_brown {
+    background-color: brown;
+}
+.heading_background_color_pink {
+    background-color: pink;
+}
