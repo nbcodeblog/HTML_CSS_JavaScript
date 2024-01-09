@@ -11,6 +11,14 @@ body {
     background-color: red;
 }
 
+/* Paragraph with CSS Font Family Property */
+.paragraph_font_family_verdana {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.paragraph_font_family_courier {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 /* Paragraph with CSS Font Size Property */
 .paragraph_font_size_20px {
     font-size: 20px;

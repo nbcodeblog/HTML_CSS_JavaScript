@@ -41,6 +41,14 @@ body {
     background-color: pink;
 }
 
+/* Headings with CSS Font Family Property */
+.heading_font_family_verdana {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.heading_font_family_courier {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 /* Headings with CSS Font Size Property */
 .heading_font_size_30px {
     font-size: 30px;
