@@ -1,0 +1,12 @@
+p {
+    background-color: red;
+    color: white;
+}
+.css_internal_paragraph1 {
+    background-color: green;
+    color: yellow;
+}
+#css_internal_paragraph1 {
+    background-color: brown;
+    color: pink;
+}
