@@ -1,0 +1,5 @@
+/* CSS Child Selector */
+div > p {
+    background-color: red;
+    color: white;
+}

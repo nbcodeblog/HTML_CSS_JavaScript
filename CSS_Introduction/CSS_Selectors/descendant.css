@@ -1,0 +1,5 @@
+/* CSS Descendent Selector */
+div p {
+    background-color: red;
+    color: white;
+}

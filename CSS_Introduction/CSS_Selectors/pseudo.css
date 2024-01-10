@@ -1,0 +1,18 @@
+/* CSS Pseudo Selector */
+a:link {
+    color: green;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: yellow;
+}
+a:active {
+    color: blue;
+}
+
+p:first-child {
+    background-color: red;
+    color: white;
+}
